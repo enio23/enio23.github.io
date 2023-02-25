@@ -41,24 +41,24 @@ Work experience
 
 Education
 ======
-**BSc. in Electronic Engineering** - Polytechnic University of Tirana - Tirana, Albania (*09/2009-08/2012*)
+* **BSc. in Electronic Engineering** - Polytechnic University of Tirana - Tirana, Albania (*09/2009-08/2012*)
   * Designing and conceiving applications of data processing systems.
   * Maintainance of electronic systems and sensor networks, database management, etc..
   * Software development
   * **Thesis title:** Data Network Simulation and DDoS Attack against it.
 
-**MSc. in Electronic Engineering (Clinical Profile)** - Polytechnic University of Tirana - Tirana, Albania (*09/2012-08/2014*)
+* **MSc. in Electronic Engineering (Clinical Profile)** - Polytechnic University of Tirana - Tirana, Albania (*09/2012-08/2014*)
   * Data processing in sanitary and biomedical and electronic systems.
   * Handling of automation and robotic systems.
   * Administration of public and private institutions.
   * **Thesis title:** Retinal Tears Detection based on Image Processing with MATLAB.
 
-**CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - Ghent University and VU Brussels, Belgium (*1st year 09/2014-09/2015*)
+* **CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - Ghent University and VU Brussels, Belgium (*1st year 09/2014-09/2015*)
   * Modelling of Physiological Systems.
   * Medical Imaging and Medical Physics.
   * Biomaterials and Biomechanics.
 
-**CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - RWTH Aachen, Germany (*2nd year 10/2015-08/2016*)
+* **CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - RWTH Aachen, Germany (*2nd year 10/2015-08/2016*)
   * Medical image processing and instrumentation.
   * Image-Guided Therapy/Molecular Imaging.
   * Optimisation techniques, applied statistics and processing of biological data.
