@@ -1,6 +1,6 @@
 ---
 title: "PHONEMeS"
-excerpt: "Modelling large-scale signalling networks from shotgun Mass-Spectrometry<br/><img src='/images/phonemes.png'>"
+excerpt: "Modelling large-scale signalling networks from shotgun Mass-Spectrometry<br/><img src='/images/phonemes.jpeg'>"
 collection: portfolio
 ---
 
