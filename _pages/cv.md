@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -53,12 +53,12 @@ Education
   * Administration of public and private institutions.
   * **Thesis title:** Retinal Tears Detection based on Image Processing with MATLAB.
 
-* **CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - Ghent University and VU Brussels, Belgium (*1st year 09/2014-09/2015*)
+**CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - Ghent University and VU Brussels, Belgium (*1st year 09/2014-09/2015*)
   * Modelling of Physiological Systems.
   * Medical Imaging and Medical Physics.
   * Biomaterials and Biomechanics.
 
-* **CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - RWTH Aachen, Germany (*2nd year 10/2015-08/2016*)
+**CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - RWTH Aachen, Germany (*2nd year 10/2015-08/2016*)
   * Medical image processing and instrumentation.
   * Image-Guided Therapy/Molecular Imaging.
   * Optimisation techniques, applied statistics and processing of biological data.
@@ -106,3 +106,4 @@ Teaching
 ======
 For Teaching experiences, please see [here](https://enio23.github.io/teaching/).
   
+A PDF version of the CV in [Europass version](https://europa.eu/europass/en/create-europass-cv) can be found [here]().
