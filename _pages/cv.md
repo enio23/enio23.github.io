@@ -11,58 +11,88 @@ redirect_from:
 
 Work experience
 ======
-**SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – RWTH Aachen - Faculty of Mechanical Engineering (*08/2016-04/2020*)
+* **Internship** - AZ Maria Middelares - Ghent, Belgium (*02/2015-07/2015*)
+  * 3D delineation and volume estimation of the Striatum of the Brain and Liver Cancer tissues.
+  * Development of tools used to quantify the severity of Parkinson Disease and Liver Cancer for making proper treatment planning.
+  * Software tools developed in MATLAB.
+  
+  
+* **Master Thesis Project** - Helmholtz Institut, RWTH Aachen - Aachen, Germany (*02/2016-08/2016*)
+  * **Thesis Title:** Registration of 3D ultrasound volume images and segmentation of bone surfaces using statistical shape models.
+  * 3D reconstruction and segmentation of the knee joint based on ultrasound imagery.
+  * The Image Registration process consisted of applying optimization algorithms for identifying the 3D rigid transformation matrix parameters and statistical shape models for efficient segmentation.
+  * Codes were written in MATLAB and C++.
 
-&nbsp;&nbsp;&nbsp;Under the supervision of Prof. Dr.-Ing. Julio Saez-Rodriguez.
 
-&nbsp;&nbsp;&nbsp;**Thesis Title:** Identification of both structure and parameters of large signalling models. 
+* **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Faculty of Mechanical Engineering and JRC COMBINE RWTH Aachen & BioQuant Zentrum Heidelberg University - Aachen & Heidelberg, Germany (*08/2016-04/2020*)
+  * **Thesis Title:** Identification of both structure and parameters of large signalling models.
+  * Development of computational tools used for the modelling large-scale cell signalling networks
+  * Integration of optimization techniques with simulation analysis in order to provide information about the behaviour of cell signalling systems.
+  * Statistical and data exploration analysis of molecular data (mainly of proteomics and transcriptomics).
+  * Computational tools developed in R.
 
-&nbsp;&nbsp;&nbsp;The aim of the PhD project consists of modelling cell signalling networks for the purpose of understanding processes involved in it and the mechanisms of cell function. In particular, the modelling of signalling networks involved the integration of optimization techniques with simulation analysis in order to provide information about the behaviour of the biological system representing our signalling networks and predict certain outcomes as a result of perturbing specific components of our system (i.e. treating cells with drugs). Design, especially optimization-based is a major focus of my PhD studies, preceded by statistical and data exploration analysis (mainly of proteomics and transcriptomics data).
 
-
-**SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Heidelberg University - Institute for Computational Biomedicine, BioQuant Zentrum (*09/2018-04/2020*)
-
-&nbsp;&nbsp;&nbsp;From September 2018 continued my PhD project as a visiting researcher in BioQuant Zentrum at Heidelberg University.
-
+* **Postdoctoral Scientist** - Heidelberg University - Klaus Tschira Institute for Integrative Computational Cardiology and Department of Internal Medicine III (Cardiology, Angiology, and Pneumology), Heidelberg University - Heidelberg, Germany (*03/2021-Current*)
+  * Integration of multi-omics data to shed light into the molecular mechanisms leading to the development of cardiomyopathies.
+  * Development of computational tools used for the understanding of Alternative Splicing effects to protein signalling networks.
+  * Identification of essential parameter settings for direct RNA sequencing with Nanopore Sequencing.
+  * Computational tools and analyses scripts developed in R.
 
 
 Education
 ======
-**BSc. in Electronic Engineering** - Polytechnic University of Tirana, Albania (*09/2009-08/2012*)
+**BSc. in Electronic Engineering** - Polytechnic University of Tirana - Tirana, Albania (*09/2009-08/2012*)
+  * Designing and conceiving applications of data processing systems.
+  * Maintainance of electronic systems and sensor networks, database management, etc..
+  * Software development
+  * **Thesis title:** Data Network Simulation and DDoS Attack against it.
 
-&nbsp;&nbsp;&nbsp;As a Bsc. graduated in Electronic Engineering I obtained the skills of designing, conceive applications of data processing systems and maintaining electronic systems and sensor networks, database management, etc.. This background allows me to lead information processing laboratories of enterprises and companies in the area of industrial production, in medicine or in the environment.
+**MSc. in Electronic Engineering (Clinical Profile)** - Polytechnic University of Tirana - Tirana, Albania (*09/2012-08/2014*)
+  * Data processing in sanitary and biomedical and electronic systems.
+  * Handling of automation and robotic systems.
+  * Administration of public and private institutions.
+  * **Thesis title:** Retinal Tears Detection based on Image Processing with MATLAB.
 
-&nbsp;&nbsp;&nbsp;**Thesis title:** Data Network Simulation and DDoS Attack against it.
+* **CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - Ghent University and VU Brussels, Belgium (*1st year 09/2014-09/2015*)
+  * Modelling of Physiological Systems.
+  * Medical Imaging and Medical Physics.
+  * Biomaterials and Biomechanics.
 
-
-**MSc. in Electronic Engineering (Clinical Profile)** - Polytechnic University of Tirana, Albania (*09/2012-08/2014*)
-
-&nbsp;&nbsp;&nbsp;As an Msc. graduated in Electronic Engineering/Clinical Profile I obtained the skills necessary to be employed in the area of data processing in sanitary and biomedical systems and electronic systems. As the Master program was still mainly based on the subjects related to electronics, as a graduate I could have still been employed in industries that handle automation and robotic; companies that work in informative systems and sensor networks as well as in services sector companies and in the public administration.
-
-&nbsp;&nbsp;&nbsp;**Thesis title:** Retinal Tears Detection based on Image Processing with MATLAB.
-
-
-**CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - Ghent University and VU Brussels, Belgium (*1st year 09/2014-09/2015*)
-
-&nbsp;&nbsp;&nbsp;I finished the first year of the Master in Biomedical Engineering at Ghent University & Free University of Brussels (VUB) where I obtained a vast set of general knowledge regarding this field. The main subjects of the first year were Modelling of Physiological Systems, BiomedicalImaging, Medical Physics, Biomaterials, Biomechanics.
-
-
-**CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - RWTH Aachen, Germany (*2nd year 10/2015-08/2016*)
-
-&nbsp;&nbsp;&nbsp;On the second year of the program, I specialised in Medical Imaging where I to deepened my knowledge of Medical Imaging Instrumentations and Image Processing Techniques. The main subjects include Image Processing and Management and Image-Guided Therapy/Molecular Imaging. The second semester I mainly worked on my thesis I had the first introduction to various optimisation techniques, applied statistics and image/data processing methods.
-
-&nbsp;&nbsp;&nbsp;**Thesis title:** Registration of 3D ultrasound volume images and segmentation of bone surfaces using statistical shape models.
-
-&nbsp;&nbsp;&nbsp;After the completion of the CEMACUBE Erasmus Mundus program, I obtained a joint Msc. degree in Biomedical Engineering from Ghent University, VU Brussels and RWTH Aachen University.
+* **CEMACUBE Erasmus Mundus MSc. in Biomedical Engineering** - RWTH Aachen, Germany (*2nd year 10/2015-08/2016*)
+  * Medical image processing and instrumentation.
+  * Image-Guided Therapy/Molecular Imaging.
+  * Optimisation techniques, applied statistics and processing of biological data.
+  * **Thesis title:** Registration of 3D ultrasound volume images and segmentation of bone surfaces using statistical shape models.
+  * After the completion of the CEMACUBE Erasmus Mundus program, I obtained a joint Msc. degree in Biomedical Engineering from Ghent University, VU Brussels and RWTH Aachen University.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Biology
+  * Modelling of Biological Systems, in particular cell-signalling.
+  * Linear and Non-linear Dynamic optimization techniques.
+  * Numerical simulation analysis of biological systems.
+  * Statistical analysis of molecular data.
+  * Databases and resources of biological knowledge.
+  * Software development.
+* Programming
+  * R
+  * MATLAB
+  * Shell scripting
+* Interpersonal
+  * Communication
+  * Presentations
+  
+Language Skills
+======
+**Abanian:** Mother toungue
+
+| **Entry**     | **Listening**   | **Reading**   | **Speaking**  | **Writing**   |
+| --------      | ------          | ------        | ------        | ------        |
+| **German**    | Proficient      | Proficient    | Proficient    | Proficient    |
+| **English**   | Fluent          | Fluent        | Fluent        | Fluent        |
+| **Italian**   | Fluent          | Good          | Good          | Elementary    |
+| **Spanish**   | Good            | Elementary    | Good          | Elementary    |
+
 
 Publications
 ======
@@ -76,6 +106,3 @@ Teaching
 ======
 For Teaching experiences, please see [here](https://enio23.github.io/teaching/).
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
