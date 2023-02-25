@@ -11,23 +11,18 @@ redirect_from:
 
 Work experience
 ======
-* **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – RWTH Aachen - Faculty of Mechanical Engineering (*08/2016-04/2020*)
-Under the supervision of Prof. Dr.-Ing. Julio Saez-Rodriguez.
+**SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – RWTH Aachen - Faculty of Mechanical Engineering (*08/2016-04/2020*)
+&nbsp;Under the supervision of Prof. Dr.-Ing. Julio Saez-Rodriguez.
 
-**Thesis Title:** Identification of both structure and parameters of large signalling models. 
+&nbsp;**Thesis Title:** Identification of both structure and parameters of large signalling models. 
 
-The aim of the PhD project consists of modelling cell signalling networks for the purpose of understanding processes involved in it and the mechanisms of cell function. In particular, the modelling of signalling networks involved the integration of optimization techniques with simulation analysis in order to provide information about the behaviour of the biological system representing our signalling networks and predict certain outcomes as a result of perturbing specific components of our system (i.e. treating cells with drugs). Design, especially optimization-based is a major focus of my PhD studies, preceded by statistical and data exploration analysis (mainly of proteomics and transcriptomics data).
-
-
-* **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Heidelberg University - Institute for Computational Biomedicine, BioQuant Zentrum (*09/2018-04/2020*)
-
-From September 2018 continued my PhD project as a visiting researcher in BioQuant Zentrum at Heidelberg University.
+&nbsp;The aim of the PhD project consists of modelling cell signalling networks for the purpose of understanding processes involved in it and the mechanisms of cell function. In particular, the modelling of signalling networks involved the integration of optimization techniques with simulation analysis in order to provide information about the behaviour of the biological system representing our signalling networks and predict certain outcomes as a result of perturbing specific components of our system (i.e. treating cells with drugs). Design, especially optimization-based is a major focus of my PhD studies, preceded by statistical and data exploration analysis (mainly of proteomics and transcriptomics data).
 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Heidelberg University - Institute for Computational Biomedicine, BioQuant Zentrum (*09/2018-04/2020*)
+
+&nbsp;From September 2018 continued my PhD project as a visiting researcher in BioQuant Zentrum at Heidelberg University.
+
 
 
 Education
