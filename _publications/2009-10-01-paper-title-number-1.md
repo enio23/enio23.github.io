@@ -6,7 +6,7 @@ excerpt: 'This paper describes Dynamic-Feeder as a method which combines data-dr
 date: 2019-12-26
 venue: 'IFAC-PapersOnLine'
 paperurl: 'http://enio23.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, and Julio Saez-Rodriguez. (2019). &quot;Literature and data-driven based inference of signalling interactions using time-course data.&quot; <i>IFAC-PapersOnLine</i>. [https://doi.org/10.1016/j.ifacol.2019.12.235](https://doi.org/10.1016/j.ifacol.2019.12.235).'
 ---
 This paper describes Dynamic-Feeder as a method which combines data-driven inference methods with general literature-based knowledge of proteins interaction networks.
 
