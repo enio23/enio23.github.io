@@ -12,6 +12,7 @@ redirect_from:
 Work experience
 ======
 **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – RWTH Aachen - Faculty of Mechanical Engineering (*08/2016-04/2020*)
+
 &nbsp;&nbsp;&nbsp;Under the supervision of Prof. Dr.-Ing. Julio Saez-Rodriguez.
 
 &nbsp;&nbsp;&nbsp;**Thesis Title:** Identification of both structure and parameters of large signalling models. 
