@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LINDA"
+excerpt: "Identifying Alternative Splicing effects to Protein interaction Networks<br/><img src='/images/linda.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+LINDA (Linear Integer programming for Network reconstruction using transcriptomics and Differential splicing data Analysis) as a method that integrates resources of protein-protein and domain-domain interaction, transcription factor targets and differential splicing/transcript analysis to infer splicing-dependent effects on cellular pathways and regulatory networks. LINDA is being maintained by [DieterichLab](https://github.com/dieterich-lab/). For more details you can check it's dedicated [Github page](https://dieterich-lab.github.io/LINDA/).
