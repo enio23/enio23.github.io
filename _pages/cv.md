@@ -24,6 +24,7 @@ Work experience
   * Integration of optimization techniques with simulation analysis in order to provide information about the behaviour of cell signalling systems.
   * Statistical and data exploration analysis of molecular data (mainly of proteomics and transcriptomics).
   * Computational tools developed in R.
+  * Doctoral Thesis defended on 10-12-2020.
   
   
 * **Master Thesis Project** - Helmholtz Institut, RWTH Aachen - Aachen, Germany (*02/2016-08/2016*)
