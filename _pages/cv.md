@@ -11,10 +11,19 @@ redirect_from:
 
 Work experience
 ======
-* **Internship** - AZ Maria Middelares - Ghent, Belgium (*02/2015-07/2015*)
-  * 3D delineation and volume estimation of the Striatum of the Brain and Liver Cancer tissues.
-  * Development of tools used to quantify the severity of Parkinson Disease and Liver Cancer for making proper treatment planning.
-  * Software tools developed in MATLAB.
+* **Postdoctoral Scientist** - Heidelberg University - Klaus Tschira Institute for Integrative Computational Cardiology and Department of Internal Medicine III (Cardiology, Angiology, and Pneumology), Heidelberg University - Heidelberg, Germany (*03/2021-Current*)
+  * Integration of multi-omics data to shed light into the molecular mechanisms leading to the development of cardiomyopathies.
+  * Development of computational tools used for the understanding of Alternative Splicing effects to protein signalling networks.
+  * Identification of essential parameter settings for direct RNA sequencing with Nanopore Sequencing.
+  * Computational tools and analyses scripts developed in R.
+  
+
+* **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Faculty of Mechanical Engineering and JRC COMBINE RWTH Aachen & BioQuant Zentrum Heidelberg University - Aachen & Heidelberg, Germany (*08/2016-04/2020*)
+  * **Thesis Title:** Identification of both structure and parameters of large signalling models.
+  * Development of computational tools used for the modelling large-scale cell signalling networks
+  * Integration of optimization techniques with simulation analysis in order to provide information about the behaviour of cell signalling systems.
+  * Statistical and data exploration analysis of molecular data (mainly of proteomics and transcriptomics).
+  * Computational tools developed in R.
   
   
 * **Master Thesis Project** - Helmholtz Institut, RWTH Aachen - Aachen, Germany (*02/2016-08/2016*)
@@ -24,20 +33,11 @@ Work experience
   * Codes were written in MATLAB and C++.
 
 
-* **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Faculty of Mechanical Engineering and JRC COMBINE RWTH Aachen & BioQuant Zentrum Heidelberg University - Aachen & Heidelberg, Germany (*08/2016-04/2020*)
-  * **Thesis Title:** Identification of both structure and parameters of large signalling models.
-  * Development of computational tools used for the modelling large-scale cell signalling networks
-  * Integration of optimization techniques with simulation analysis in order to provide information about the behaviour of cell signalling systems.
-  * Statistical and data exploration analysis of molecular data (mainly of proteomics and transcriptomics).
-  * Computational tools developed in R.
-
-
-* **Postdoctoral Scientist** - Heidelberg University - Klaus Tschira Institute for Integrative Computational Cardiology and Department of Internal Medicine III (Cardiology, Angiology, and Pneumology), Heidelberg University - Heidelberg, Germany (*03/2021-Current*)
-  * Integration of multi-omics data to shed light into the molecular mechanisms leading to the development of cardiomyopathies.
-  * Development of computational tools used for the understanding of Alternative Splicing effects to protein signalling networks.
-  * Identification of essential parameter settings for direct RNA sequencing with Nanopore Sequencing.
-  * Computational tools and analyses scripts developed in R.
-
+* **Internship** - AZ Maria Middelares - Ghent, Belgium (*02/2015-07/2015*)
+  * 3D delineation and volume estimation of the Striatum of the Brain and Liver Cancer tissues.
+  * Development of tools used to quantify the severity of Parkinson Disease and Liver Cancer for making proper treatment planning.
+  * Software tools developed in MATLAB.
+  
 
 Education
 ======
@@ -100,7 +100,7 @@ For a complete list of Publications, please see [here](https://enio23.github.io/
   
 Talks
 ======
-For Talks, please see [here](https://enio23.github.io/talks/).
+For Talks and Conference attendances, please see [here](https://enio23.github.io/talks/).
   
 Teaching
 ======
