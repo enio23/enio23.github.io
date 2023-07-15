@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enio Gjerga, Dr.-Ing."
+title                    : "Enio Oleg Gjerga, Dr.-Ing."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enio Gjerga"
+  name             : "Enio Oleg Gjerga"
   avatar           : "profile.png"
   bio              : "Postdoctoral Scientist living in Heidelberg"
   location         : "Heidelberg"
