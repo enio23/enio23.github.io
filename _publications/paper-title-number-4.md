@@ -3,7 +3,7 @@ title: "Converting networks to predictive logic models from perturbation signall
 collection: publications
 excerpt: 'CellNOpt is a collection of Bioconductor R packages for building logic models from perturbation data and prior knowledge of signalling networks.'
 date: 2020-08-16
-venue: 'npj Systems Biology and Applications'
+venue: 'Bioinformatics'
 ---
 The molecular changes induced by perturbations such as drugs and ligands are highly informative of the intracellular wiring. Our capacity to generate large datasets is increasing steadily. A useful way to extract mechanistic insight from the data is by integrating them with a prior knowledge network of signalling to obtain dynamic models. CellNOpt is a collection of Bioconductor R packages for building logic models from perturbation data and prior knowledge of signalling networks. We have recently developed new components and refined the existing ones to keep up with the computational demand of increasingly large datasets, including (i) an efficient integer linear programming, (ii) a probabilistic logic implementation for semi-quantitative datasets, (iii) the integration of a stochastic Boolean simulator, (iv) a tool to identify missing links, (v) systematic post-hoc analyses and (vi) an R-Shiny tool to run CellNOpt interactively.
 
