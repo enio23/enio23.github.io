@@ -2,7 +2,7 @@
 title: "Literature and data-driven based inference of signalling interactions using time-course data"
 collection: publications
 excerpt: 'This paper describes Dynamic-Feeder as a method which combines data-driven inference methods with general literature-based knowledge of proteins interaction networks.'
-date: 2019-12-26
+date: 2019-10-15
 venue: 'IFAC-PapersOnLine'
 ---
 This paper describes Dynamic-Feeder as a method which combines data-driven inference methods with general literature-based knowledge of proteins interaction networks.
