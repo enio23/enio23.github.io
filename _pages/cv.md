@@ -16,7 +16,7 @@ Work experience
   * Development of computational tools used for the understanding of Alternative Splicing effects to protein signalling networks.
   * Identification of essential parameter settings for direct RNA sequencing with Nanopore Sequencing.
   * Computational tools and analyses scripts developed in R.
-  
+
 
 * **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Faculty of Mechanical Engineering and JRC COMBINE RWTH Aachen & BioQuant Zentrum Heidelberg University - Aachen & Heidelberg, Germany (*08/2016-04/2020*)
   * **Thesis Title:** Identification of both structure and parameters of large signalling models (Defended on 10-12-2020).
@@ -25,7 +25,7 @@ Work experience
   * Statistical and data exploration analysis of molecular data (mainly of proteomics and transcriptomics).
   * Computational tools developed in R.
 
-  
+
 * **Master Thesis Project** - Helmholtz Institut, RWTH Aachen - Aachen, Germany (*02/2016-08/2016*)
   * **Thesis Title:** Registration of 3D ultrasound volume images and segmentation of bone surfaces using statistical shape models.
   * 3D reconstruction and segmentation of the knee joint based on ultrasound imagery.
@@ -37,7 +37,7 @@ Work experience
   * 3D delineation and volume estimation of the Striatum of the Brain and Liver Cancer tissues.
   * Development of tools used to quantify the severity of Parkinson Disease and Liver Cancer for making proper treatment planning.
   * Software tools developed in MATLAB.
-  
+
 
 Education
 ======
@@ -64,7 +64,7 @@ Education
   * Optimisation techniques, applied statistics and processing of biological data.
   * **Thesis title:** Registration of 3D ultrasound volume images and segmentation of bone surfaces using statistical shape models.
   * After the completion of the CEMACUBE Erasmus Mundus program, I obtained a joint Msc. degree in Biomedical Engineering from Ghent University, VU Brussels and RWTH Aachen University.
-  
+
 Skills
 ======
 * Computational Biology
@@ -81,7 +81,7 @@ Skills
 * Interpersonal
   * Communication
   * Presentations
-  
+
 Language Skills
 ======
 **Abanian:** Mother toungue
@@ -96,14 +96,14 @@ Language Skills
 
 Publications
 ======
-For a complete list of Publications, please see [here](https://enio23.github.io/publications/).
-  
+For a complete list of Publications, please see [here](https://enio23.github.io/publications/) or you can check on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=IzQPpf0AAAAJ&view_op=list_works&sortby=pubdate).
+
 Talks
 ======
 For Talks and Conference attendances, please see [here](https://enio23.github.io/talks/).
-  
+
 Teaching
 ======
 For Teaching experiences, please see [here](https://enio23.github.io/teaching/).
-  
+
 A PDF version of the CV in [Europass version](https://europa.eu/europass/en/create-europass-cv) can be found [here]().
