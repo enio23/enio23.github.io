@@ -3,7 +3,7 @@ title: "Causal integration of multi‐omics data with prior knowledge to generat
 collection: publications
 excerpt: 'COSMOS combines extensive prior knowledge of signaling, metabolic, and gene regulatory networks with computational methods to estimate activities of transcription factors and kinases as well as network‐level causal reasoning.'
 date: 2021-01-27
-venue: 'Bioinformatics'
+venue: 'Molecular Systems Biology'
 ---
 Multi‐omics datasets can provide molecular insights beyond the sum of individual omics. Various tools have been recently developed to integrate such datasets, but there are limited strategies to systematically extract mechanistic hypotheses from them. Here, we present COSMOS (Causal Oriented Search of Multi‐Omics Space), a method that integrates phosphoproteomics, transcriptomics, and metabolomics datasets. COSMOS combines extensive prior knowledge of signaling, metabolic, and gene regulatory networks with computational methods to estimate activities of transcription factors and kinases as well as network‐level causal reasoning. COSMOS provides mechanistic hypotheses for experimental observations across multi‐omics datasets. We applied COSMOS to a dataset comprising transcriptomics, phosphoproteomics, and metabolomics data from healthy and cancerous tissue from eleven clear cell renal cell carcinoma (ccRCC) patients. COSMOS was able to capture relevant crosstalks within and between multiple omics layers, such as known ccRCC drug targets. We expect that our freely available method will be broadly useful to extract mechanistic insights from multi‐omics studies.
 
