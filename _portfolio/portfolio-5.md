@@ -1,9 +1,9 @@
 ---
-title: "TACOMA"
-excerpt: "Transverse Aortic COnstriction Multi-omics Analysis (TACOMA) uncovers pathophysiological cardiac molecular mechanisms<br/><img src='/images/tac_workflow.png'>"
+title: "CARNIVAL"
+excerpt: "Contextualizing large sginalling networks from Gene Expression data<br/><img src='/images/carnival.png'>"
 collection: portfolio
 ---
 
-[TACOMA](https://shiny.dieterichlab.org/app/tacoma), as a user-friendly resource to explore and visualize multi-omics time-course data of hypertrophy progression from a Transverse Aortic Constriction (TAC) mouse model. Consequently, [TACOMA](https://shiny.dieterichlab.org/app/tacoma) offers the potential to uncover molecular mechanisms associated with hypertrophies and heart failure, which are crucial for diagnostic, prognostic, and therapeutic purposes.
+CARNIVAL (CAusal Reasoning pipeline for Network identification using Integer VALue programming) integrates different sources of prior knowledge including signed and directed protein–protein interactions, transcription factor targets, and pathway signatures. The use of prior knowledge in CARNIVAL enables capturing a broad set of upstream cellular processes and regulators, leading to a higher accuracy when benchmarked against related tools.
 
-LINDA is being maintained and further developed by [DieterichLab](https://github.com/dieterich-lab/). TACOMA has been implemente as a Shiny-App and it can be accessed online [here](https://shiny.dieterichlab.org/app/tacoma).
+CARNIVAL is being maintained and further developed by [saezlab](https://github.com/saezlab). For more details you can check on [this publication](https://www.nature.com/articles/s41540-019-0118-z) as well as it's dedicated [Github page](https://saezlab.github.io/CARNIVAL/).
