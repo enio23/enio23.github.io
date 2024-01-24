@@ -96,7 +96,7 @@ Language Skills
 
 Publications
 ======
-For a complete list of Publications, please see [here](https://enio23.github.io/publications/) or you can check on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=IzQPpf0AAAAJ&view_op=list_works&sortby=pubdate).
+For a selected list of Publications, please see [here](https://enio23.github.io/publications/) or you can check on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=IzQPpf0AAAAJ&view_op=list_works&sortby=pubdate) for a complete list of publications.
 
 Talks
 ======
