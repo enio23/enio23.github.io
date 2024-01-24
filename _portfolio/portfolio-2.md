@@ -1,9 +1,9 @@
 ---
-title: "CellNOpt"
-excerpt: "Creating logic-based models of signal transduction networks using different logic formalisms<br/><img src='/images/cellnopt.png'>"
+title: "LINDA"
+excerpt: "Identifying Alternative Splicing effects to Protein interaction Networks<br/><img src='/images/linda.png'>"
 collection: portfolio
 ---
 
-CellNOpt (CellNetOptimiser) is a framework to build predictive logic models of signalling pathways by training a prior knowledge network (PKN) to biochemical data obtained from perturbation experiments. The CellNOpt R packages feature different formalisms ranging from Boolean logic to logic-based ordinary differential equation and they are also available in Bioconductor. 
+LINDA (Linear Integer programming for Network reconstruction using transcriptomics and Differential splicing data Analysis) as a method that integrates resources of protein-protein and domain-domain interaction, transcription factor targets and differential splicing/transcript analysis to infer splicing-dependent effects on cellular pathways and regulatory networks. 
 
-CellNOpt is being maintained and further developed by [saezlab](https://github.com/saezlab). For more details you can check the two related publications ([Terfve et.al. 2012](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-6-133) and [Gjerga et. al. 2020](https://academic.oup.com/bioinformatics/article/36/16/4523/5855133)) as well as it's dedicated [Github page](https://saezlab.github.io/CellNOptR/).
+LINDA is being maintained and further developed by [DieterichLab](https://github.com/dieterich-lab/). For more details you can check it's dedicated [Github page](https://dieterich-lab.github.io/LINDA/).
