@@ -9,4 +9,4 @@ The molecular changes induced by perturbations such as drugs and ligands are hig
 
 [Download paper here](http://enio23.github.io/files/paper004.pdf)
 
-Recommended citation: Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier, Franceco Ceccarelli, Aurelien Dugourd, Alexander Mitsos, Julio Saez-Rodriguez. "FConverting networks to predictive logic models from perturbation signalling data with CellNOpt" _Bioinformatics_ Volume 36, Issue 16 (August 2020). [https://doi.org/10.1093/bioinformatics/btaa561](https://doi.org/10.1093/bioinformatics/btaa561)
+Recommended citation: Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier, Franceco Ceccarelli, Aurelien Dugourd, Alexander Mitsos, Julio Saez-Rodriguez. "Converting networks to predictive logic models from perturbation signalling data with CellNOpt" _Bioinformatics_ Volume 36, Issue 16 (August 2020). [https://doi.org/10.1093/bioinformatics/btaa561](https://doi.org/10.1093/bioinformatics/btaa561)
