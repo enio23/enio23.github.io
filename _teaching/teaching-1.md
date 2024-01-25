@@ -1,5 +1,5 @@
 ---
-title: "Proteomics and Integrative Proteomics-transcriptomics Analysis Techniques"
+title: "Proteomics and Integrative Proteomics & Transcriptomics Analysis Techniques"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/teaching-1
