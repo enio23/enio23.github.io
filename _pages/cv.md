@@ -19,7 +19,7 @@ Work experience
 
 
 * **SYMBIOSYS ITN Early Stage Researcher/PhD Candidate** – Faculty of Mechanical Engineering and JRC COMBINE RWTH Aachen & BioQuant Zentrum Heidelberg University - Aachen & Heidelberg, Germany (*08/2016-04/2020*)
-  * **Thesis Title:** Identification of both structure and parameters of large signalling models (Defended on 10-12-2020).
+  * **Thesis Title:** Modelling and Analysis of Large-Scale Models of Signalling Networks (Defended on 10-12-2020).
   * Development of computational tools used for the modelling large-scale cell signalling networks
   * Integration of optimization techniques with simulation analysis in order to provide information about the behaviour of cell signalling systems.
   * Statistical and data exploration analysis of molecular data (mainly of proteomics and transcriptomics).
