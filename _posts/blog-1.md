@@ -1,7 +1,7 @@
 ---
 title: 'Setting-up Personal GitHub page'
 date: 2024-01-31
-permalink: /posts/blog-1
+collection: posts
 tags:
   - gh-pages
 ---
