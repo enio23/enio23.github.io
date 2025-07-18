@@ -113,4 +113,4 @@ Teaching
 ======
 For Teaching experiences, please see [here](https://enio23.github.io/teaching/).
 
-A PDF version of the CV in [Europass version](https://europa.eu/europass/en/create-europass-cv) can be found [here]().
+A PDF version of the CV in [Europass version](https://europa.eu/europass/en/create-europass-cv) can be found [here](https://github.com/enio23/enio23.github.io/blob/main/files/Gjerga_CV.pdf).
