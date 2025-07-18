@@ -68,19 +68,26 @@ Education
 Skills
 ======
 * Computational Biology
-  * Modelling of Biological Systems, in particular cell-signalling.
-  * Linear and Non-linear Dynamic optimization techniques.
-  * Numerical simulation analysis of biological systems.
   * Statistical analysis of molecular data.
   * Databases and resources of biological knowledge.
   * Software development.
+  * Modelling of Biological Systems, in particular cell-signalling.
+  * Linear and Non-linear Dynamic optimization techniques.
+  * Numerical simulation analysis of biological systems.
+  * Omics data: proteomics, bulk RNA-seq, single-cell and single nuclei RNA-seq, secretomics, metabolomics, gene sequencing, secretomics, long-read ONT, etc.
+  * Machine learning application in Biology.
+  * Modelling or protein folding and interactions with AlphaFold Multimer and AlphaFold3.
+  * Molecular dynamics simulations.
 * Programming
   * R
   * MATLAB
+  * python
   * Shell scripting
 * Interpersonal
   * Communication
   * Presentations
+  * Tutoring
+  * Leadership
 
 Language Skills
 ======
