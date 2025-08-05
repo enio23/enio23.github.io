@@ -1,11 +1,11 @@
 ---
-title: "Conference Proceeding talk: ISMB/ECCB 2023"
+title: "Conference Proceeding talk: ISMB/ECCB 2025"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference talk, Text Mining for Healthcare and Biology"
 permalink: /talks/talk-1
-venue: "Characterising Alternative Splicing Effects on Protein Interaction Networks with LINDA"
-date: 2023-07-25
-location: "Lyon, France"
+venue: "Reading papers: Extraction of molecular interaction networks with large language models"
+date: 2025-07-24
+location: "Liverpool, UK"
 ---
 
-Conference Proceeding talk at [The 31st Annual  Intelligent Systems For Molecular Biology and the 22nd Annual European Conference on Computational Biology](https://www.iscb.org/ismbeccb2023), where I have presented [LINDA](https://enio23.github.io/portfolio/portfolio-2/).
+Conference talk at the _Text Mining: Text Mining for Healthcare and Biology_ special session of [The 33rd Annual  Intelligent Systems For Molecular Biology and the 24th Annual European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home), where I have presented our work on [Evaluating Molecular Relation Extraction using LLMs](https://www.biorxiv.org/content/10.1101/2025.07.21.665999v1.abstract).
