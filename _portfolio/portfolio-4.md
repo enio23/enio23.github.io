@@ -1,9 +1,9 @@
 ---
-title: "PHONEMeS"
-excerpt: "Modelling large-scale signalling networks from shotgun Mass-Spectrometry<br/><img src='/images/phonemes.jpeg'>"
+title: "TACOMA"
+excerpt: "Transverse Aortic COnstriction Multi-omics Analysis (TACOMA) uncovers pathophysiological cardiac molecular mechanisms<br/><img src='/images/tac_workflow.png'>"
 collection: portfolio
 ---
 
-PHONEMeS (PHOsphorylation NEtworks for Mass Spectrometry), is a method that is used to train and build large-scale Boolean logic models of signaling. PHONEMeS combines identified phosphopeptide abundance measurements (e.g., from untargeted shotgun phosphoproteomic experiments) with a large Prior Knowledge Network (PKN). The PKN is primarily built from known kinase/phosphatase-to-substrate (K/P–S) relations. 
+[TACOMA](https://shiny.dieterichlab.org/app/tacoma), as a user-friendly resource to explore and visualize multi-omics time-course data of hypertrophy progression from a Transverse Aortic Constriction (TAC) mouse model. Consequently, [TACOMA](https://shiny.dieterichlab.org/app/tacoma) offers the potential to uncover molecular mechanisms associated with hypertrophies and heart failure, which are crucial for diagnostic, prognostic, and therapeutic purposes.
 
-PHONEMeS is being maintained and further developed by [saezlab](https://github.com/saezlab). For more details you can check the two related publications ([Terfve et.al. 2015](https://www.nature.com/articles/ncomms9033) and [Gjerga et. al. 2021](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.0c00958)) as well as it's dedicated [Github page](https://saezlab.github.io/PHONEMeS/).
+LINDA is being maintained and further developed by [DieterichLab](https://github.com/dieterich-lab/). TACOMA has been implemente as a Shiny-App and it can be accessed online [here](https://shiny.dieterichlab.org/app/tacoma).

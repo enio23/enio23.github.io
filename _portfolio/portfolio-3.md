@@ -1,9 +1,8 @@
 ---
-title: "CellNOpt"
-excerpt: "Creating logic-based models of signal transduction networks using different logic formalisms<br/><img src='/images/cellnopt.png'>"
+title: "ALL-LINDA"
+excerpt: "AI and Molecular Dynamics for modelling of signalling on multi-cellular systems at a domain resolution data<br/><img src='/images/all_linda.png'>"
 collection: portfolio
 ---
 
-CellNOpt (CellNetOptimiser) is a framework to build predictive logic models of signalling pathways by training a prior knowledge network (PKN) to biochemical data obtained from perturbation experiments. The CellNOpt R packages feature different formalisms ranging from Boolean logic to logic-based ordinary differential equation and they are also available in Bioconductor. 
-
-CellNOpt is being maintained and further developed by [saezlab](https://github.com/saezlab). For more details you can check the two related publications ([Terfve et.al. 2012](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-6-133) and [Gjerga et. al. 2020](https://academic.oup.com/bioinformatics/article/36/16/4523/5855133)) as well as it's dedicated [Github page](https://saezlab.github.io/CellNOptR/).
+The LINDA framework, while capable of modeling protein interaction networks and protein domain changes, is limited by incomplete and biased data resources, its inability to model all types of alternative splicing, and issues with identifying a single most likely signaling mechanism, which a new framework called ALL-LINDA proposes to address by integrating Large Language Models and AlphaFold3 to update knowledge, validate protein interactions, and improve identifiability.
+ALL-LINDA is currently under development. For some initial more details you can check on the dedicated [documentation page](https://enio23.github.io/lindaplus-docs/ailinda/). More details will arrive soon.
